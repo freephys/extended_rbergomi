@@ -6,7 +6,7 @@ We are researching this model's theoretical justification and practical effectiv
 
 Python and Julia code and results forthcoming.
 
-We define the extended rBergomi model by
+Using a two-dimensional Brownian motion with independent components, we define the extended rBergomi model by
 
 <p align="center">
   <img src="model.png" width="650">
